@@ -1,0 +1,6 @@
+{
+  "name": "Resultados y Alineaciones de Fútbol",
+  "description": "Tu centro independiente de fútbol semanal. Consulta marcadores recientes, alineaciones tácticas interactivas plasmadas sobre el terreno de juego, estadísticas clave e informes de juego detallados, potenciados por IA y búsqueda en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
